@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "show temperature and weather",
+    "githubUrl": "https://github.com/alsdk3586/WeatherApp"
   }
 }
